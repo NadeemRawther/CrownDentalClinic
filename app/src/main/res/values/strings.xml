@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crown Dental Clinic</string>
+    <string name="title_activity_patient">Patient</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Report</string>
+    <string name="title_notifications">Review</string>
+<string name="hello_blank_fragment1">Hello home fragment </string>
+    <string name = "hello_blank_fragment2">hello report fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello review fragment</string>
+</resources>
